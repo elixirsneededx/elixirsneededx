@@ -1,5 +1,7 @@
 elixirs (was here)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=print(Hello+World!))](https://git.io/typing-svg)
+
 I'm a script kiddie with a keyboard and a dream, why are you here? I'm not known yet 😉
 
 ## 🛠Languages
